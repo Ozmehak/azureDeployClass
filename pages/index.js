@@ -9,7 +9,7 @@ export default function Home() {
     <Image className={styles.picture} src={doggo} alt='picture of dog showing half face'/>
       <div>hej lille hund</div>
 
-  <footer className={styles.footer}>Hejdå little hunt</footer>
+  <footer className={styles.footer}>Hejdå lille hund</footer>
     </div>
   )
 }
